@@ -3,4 +3,8 @@ Python provides a generator to create your own iterator function. A generator is
 
 
 
+
 The generator function cannot include the return keyword. If you include it, then it will terminate the function. The difference between 'yield' and 'return' is that yield returns a value and pauses the execution while maintaining the internal states, whereas the return statement returns a value and terminates the execution of the function.
+
+
+![image](https://user-images.githubusercontent.com/86805669/156531173-e232be66-a701-41c7-b783-a56d6c906d82.png)
